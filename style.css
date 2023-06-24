@@ -1,0 +1,32 @@
+body{
+    overflow-x: hidden;
+}
+
+.navcolor{
+    background-color: lightgray;
+}
+ .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+ }
+.country{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    margin-top: 2vh;
+}
+
+#country_flag{
+    text-align: center;
+    border: 2px solid darkgray;
+}
+
+.alarm{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
